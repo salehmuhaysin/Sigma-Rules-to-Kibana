@@ -1,0 +1,1 @@
+# Sigma-Rules-to-Kibana
